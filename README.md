@@ -1,4 +1,4 @@
-# courseraJava_UPenn
+# courseraJava_UPenn_3
 Homework 3, week2 : Arrays &amp; ArrayLists
 
 Some assignment coding for a class with methods for working with and manipulating Arrays and ArrayLists. 
