@@ -9,7 +9,7 @@ Some assignment coding for a class with methods for working with and manipulatin
    * to update the array itself;
    * to maintain the order of the non-zeros.
 
-<img width="200" alt="DNSMasq-Deny-Allow" src="docs/Obrazek.png">
+<img width="500" alt="DNSMasq-Deny-Allow" src="docs/Obrazek.png">
 
 ![Obraz](docs/Obrazek.png)
 
