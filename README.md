@@ -8,3 +8,8 @@ Some assignment coding for a class with methods for working with and manipulatin
    * to put all of the zeros in the given array, at the end of the given array;
    * to update the array itself;
    * to maintain the order of the non-zeros.
+
+<img width="200" alt="DNSMasq-Deny-Allow" src="docs/Obrazek.png">
+
+![Obraz](docs/Obrazek.png)
+
