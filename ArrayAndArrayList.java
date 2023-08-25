@@ -4,7 +4,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 import java.util.ArrayList;
 
 /**
- * Class with methods for working with and manipulating Arrays and ArrayLists. 
+ * Class with methods for working with and manipulating Arrays and ArrayLists..
  */
 public class ArrayAndArrayList {
 
